@@ -29,7 +29,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648438193932</updated>
-      <workItem from="1648438195101" duration="2237000" />
+      <workItem from="1648438195101" duration="6088000" />
     </task>
     <servers />
   </component>
@@ -37,9 +37,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2714" y="983" key="NewPhpFileDialog" timestamp="1648438207816">
+    <state x="540" y="730" key="#Servers" timestamp="1648443833177">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="2714" y="983" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1648438207816" />
+    <state x="540" y="730" key="#Servers/0.0.3840.2120@0.0.3840.2120" timestamp="1648443833177" />
+    <state x="414" y="718" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648443835499">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="414" y="718" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1648443835499" />
+    <state x="2714" y="983" key="NewPhpFileDialog" timestamp="1648442701090">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2714" y="983" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1648442701090" />
   </component>
 </project>

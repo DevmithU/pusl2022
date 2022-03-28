@@ -7,7 +7,7 @@
 $f2 = $_GET['f2'];
 
 $url = 'https://api.thingspeak.com/update';
-$data = array('api_key' => 'HSEVD4U8HXYTWV4I', 'field2' => '99' );
+$data = array('api_key' => 'HSEVD4U8HXYTWV4I', 'field2' => $f2 );
 
 // use key 'http' even if you send the request to https://...
 $options = array(
@@ -20,8 +20,8 @@ $options = array(
 $context  = stream_context_create($options);
 $result = file_get_contents($url, false, $context);
 
-$json = json_decode(file_get_contents($url, false, $context));
-print_r($json);
+//$json = json_decode(file_get_contents($url, false, $context));
+//print_r($json);
 
 if ($result === FALSE) { /* Handle error */ }
 

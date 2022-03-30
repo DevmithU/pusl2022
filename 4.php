@@ -19,7 +19,8 @@ function json_response($code , $message)
     // ok, validation error, or failure
     header('Status: '.$status[$code]);
     // return the encoded json
-    return json_encode("ee");
+    return json_encode(array(
+        'status'=>12));
 }
 
 // if you are doing ajax with application-json headers

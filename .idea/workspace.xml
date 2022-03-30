@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02851fb2-7db2-404c-a023-7609b046e3c3" name="Default Changelist" comment="" />
+    <list default="true" id="02851fb2-7db2-404c-a023-7609b046e3c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648438193932</updated>
       <workItem from="1648438195101" duration="7502000" />
-      <workItem from="1648611460040" duration="1382000" />
+      <workItem from="1648611460040" duration="2122000" />
     </task>
     <servers />
   </component>
@@ -49,9 +51,13 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="414" y="718" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1648443835499" />
-    <state x="2714" y="983" key="NewPhpFileDialog" timestamp="1648442701090">
+    <state x="2036" y="1600" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648640608266">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="2714" y="983" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1648442701090" />
+    <state x="2036" y="1600" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.2120@0.0.3840.2120" timestamp="1648640608266" />
+    <state x="2714" y="983" key="NewPhpFileDialog" timestamp="1648640615908">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2714" y="983" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1648640615908" />
   </component>
 </project>

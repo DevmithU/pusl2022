@@ -25,8 +25,8 @@ $result = file_get_contents($url, false, $context);
 
 if ($result === FALSE) { /* Handle error */ }
 
-var_dump($result);
-
+//var_dump($result);
+echo "<pre style='word-wrap: break-word; white-space: pre-wrap;'>$result</pre>";
 //   pusl2022.atwebpages.com/?f2=33
 
 

@@ -38,7 +38,7 @@ $new2=$new['0'];
 //echo "</br>";
 //echo "</br>";
 $new3=$new2['field2'];
-print_r($new3);
+//print_r($new3);
 
 
 //Array ( [channel] => Array ( [id] => 1686549 [name] => gsmiot [latitude] => 0.0 [longitude] => 0.0 [field1] => temp [field2] => humidity [created_at] => 2022-03-27T10:15:51Z [updated_at] => 2022-03-27T10:15:51Z [last_entry_id] => 19 ) [feeds] => Array ( [0] => Array ( [created_at] => 2022-03-28T05:02:51Z [entry_id] => 19 [field2] => 800 ) ) )
